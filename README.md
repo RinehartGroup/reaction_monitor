@@ -1,5 +1,5 @@
 # reaction_monitor
-An Arduino-based data logger for logging data from chemical reactions.
+An Arduino-based data logger for logging temperature, gas flow, and gas composition data from chemical reactions.
 
 ## Motivation
 
