@@ -1,6 +1,6 @@
-RXN00009.CSV - dry air. Sensors in sealed container with air and Drierite
-RXN00010.CSV - atmospheric. Sensors open to atmosphere
-RXN00011.CSV - wet air. Sensors in sealed container with water in bottom.
-RXN00012.CSV - dry N2. Note: this had the humidity sensor unattached. Use RXN00016 instead
-RXN00015.CSV - wet N2. N2 stream through bubbler, then the two oxygen sensors, then the BME280 sensor
-RXN00016.CSV - dry N2. N2 stream straight to oxygen sensors then the BME280 sesnor. 
+RXN00009.CSV; dry air; Sensors in sealed container with air and Drierite;
+RXN00010.CSV; atmospheric; Sensors open to atmosphere;
+RXN00011.CSV; wet air; Sensors in sealed container with water in bottom;
+RXN00012.CSV; dry N2 no humidity sensor; Note: this had the humidity sensor unattached. Use RXN00016 instead;
+RXN00015.CSV; wet N2; N2 stream through bubbler, then the two oxygen sensors, then the BME280 sensor;
+RXN00016.CSV; dry N2; N2 stream straight to oxygen sensors then the BME280 sesnor;

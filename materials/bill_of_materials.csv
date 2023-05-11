@@ -1,0 +1,18 @@
+﻿item,quantity,cost,link
+Arduino Mega,1,48.4,https://store-usa.arduino.cc/products/arduino-mega-2560-rev3
+16x2 LCD Display (I2C),2,11.99,https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6
+DS3231 Precision RTC Breakout (I2C),1,17.5,https://www.adafruit.com/product/3013
+Micro SD Breakout Board (SPI),1,11.99,https://www.amazon.com/FainWan-Storage-Expansion-Interface-Adapter/dp/B09JZC6TCD
+ADS1115 16-Bit ADC - 4 Channel with Programmable Gain Amplifier (I2C),2,14.95,https://www.adafruit.com/product/1085
+BME280 I2C or SPI Temperature Humidity Pressure Sensor,1,14.95,https://www.adafruit.com/product/2652
+LM2596 DC to DC Buck Converter,1,8.99,https://www.amazon.com/LM2596-Converter-3-0-40V-1-5-35V-Supply/dp/B08NV3JCBC
+12V 2A AC Adapter,1,11.99,https://www.amazon.com/Adapter-Charger-Replacement-Regulated-Transformer/dp/B0852HX9HV
+Apogee SO-110 Soil Response Thermistor Reference Oxygen Sensor,2,365,https://www.apogeeinstruments.com/so-110-soil-response-thermistor-reference-oxygen-sensor/
+McMillan Flow Model 100-3 Gas Flow Sensor 20-100 mL/min,1,275,https://www.mcmflow.com/product/model-100/
+McMillan Flow Model 100-5 Gas Flow Sensor 100-500 mL/min,1,275,https://www.mcmflow.com/product/model-100/
+Omega CN7200 PID Controller,1,,https://www.omega.ca/en/control-monitoring/controllers/pid-controllers/p/CN7200-Series
+MD-30 CONN PLUG MALE MINI DIN 3P SLDR,5,2.29,https://www.digikey.com/en/products/detail/cui-devices/MD-30/96910
+MD-30SP CONN RCPT FMALE MINI DIN 3P SLDR,5,2.54,https://www.digikey.com/en/products/detail/cui-devices/MD-30SP/165983
+MD-70 CONN PLUG MALE MINI DIN 7P SLDR,2,2.51,https://www.digikey.com/en/products/detail/cui-devices/MD-70/96918
+MD-70SP CONN RCPT FMALE MINI DIN 7P SLDR,2,2.75,https://www.digikey.com/en/products/detail/cui-devices/MD-70SP/135497
+Barrel Jack Connector - Female,1,9.99,https://www.amazon.com/DaierTek-5-5x2-1mm-Female-Connector-Barrel/dp/B096XJWZJQ
