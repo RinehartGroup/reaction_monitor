@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7927253.svg)](https://doi.org/10.5281/zenodo.7927253)
+
 # reaction_monitor
 An Arduino-based data logger for logging temperature, gas flow, and gas composition data from chemical reactions.
 
